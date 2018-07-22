@@ -41,4 +41,13 @@ dependencies {
 
     // JSON Converter
     implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+
+    // Time formating
+    implementation 'com.github.curioustechizen.android-ago:library:1.4.0'
+
+    // Picasso
+    implementation 'com.squareup.picasso:picasso:2.71828'
+
+    // diagonal layout
+    implementation 'com.github.florent37:diagonallayout:1.0.7'
 }
